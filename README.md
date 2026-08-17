@@ -75,7 +75,15 @@ Through this project, I explored:
 - Add practical security examples
 - Expand the security checklist
 
+---
+
+## 📚 Learning Journey
+
+I'm currently building my knowledge in cybersecurity through practical learning and hands-on projects.
+
+My goal is to keep learning, improving my skills, and exploring different areas of cybersecurity.
 
 ---
+
 
 > 💡 **Stay aware. Think before you click. Stay secure.** 🔐
